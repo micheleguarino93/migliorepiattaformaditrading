@@ -22,22 +22,22 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 56px;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 44px;
     margin-top: 20px;
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 36px;
     margin-top: 15px;
 }
 
 /* Paragrafi */
 p {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 /* Link */
